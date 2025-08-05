@@ -39,7 +39,7 @@ CodeX/
 Follow these steps to run CodeX locally:
 
 1. Clone the repository
-git clone https://github.com/your-username/codex.git
+git clone https://github.com/Snofts/codeX.git
 cd codex
 
 2. Install dependencies
